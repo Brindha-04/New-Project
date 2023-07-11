@@ -1,1 +1,1 @@
-# New-Project
+Repository created successfully.
